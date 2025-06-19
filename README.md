@@ -18,6 +18,8 @@ This project analyzes feedback from 1,001 students who rated various aspects of 
 ## 📈 Visualizations Included
 
 - Bar Chart (Average Ratings)
+  The bar chart illustrates the average student ratings for various teaching quality indicators. While subject knowledge was rated highly (7.5/10), other areas like assignment difficulty, clarity of explanation, and course structure scored below 6. This suggests a need to improve how content is delivered and supported, even if the instructor is knowledgeable. The chart helped prioritize improvement areas and guided our recommendations.
+  
 - Histogram (Score Distributions)
 - Box Plot (Data Spread)
 - Line Chart (Trend Across Categories)
