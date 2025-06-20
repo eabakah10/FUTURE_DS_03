@@ -18,10 +18,12 @@ This project analyzes feedback from 1,001 students who rated various aspects of 
 ## 📈 Visualizations
 
 - The bar chart illustrates the average student ratings for various indicators of teaching quality. While subject knowledge was rated highly (7.5/10), other areas like assignment difficulty, clarity of explanation, and course structure scored below 6. This suggests a need to improve how content is delivered and supported, even if the instructor is knowledgeable. The chart helped prioritize areas for improvement and guided our recommendations.
-  ![Average Score per feeback](bar chart.png)
+  ![Average Score per feedback](bar_chart.png)
   
   
-- Histogram (Score Distributions)
+- The histogram (Score Distributions) grid shows the distribution of student ratings for each feedback category. Unlike the bar chart, which only displays averages, these charts highlight how spread out or consistent the feedback was. For example, while "Well versed with the subject" received high averages, its histogram confirms that most students rated it between 8 and 10. In contrast, "Assignment difficulty" shows an almost uniform spread from 1 to 10, revealing high variability — some students found assignments manageable, others found them extremely difficult. These patterns provide critical context for interpreting average scores and indicate areas where student experiences differ significantly.
+  ![Average Score per feedback](histogram.png)
+- 
 - Box Plot (Data Spread)
 - Line Chart (Trend Across Categories)
 - Correlation Heatmap (Relationships Between Ratings)
