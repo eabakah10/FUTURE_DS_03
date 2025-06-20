@@ -30,7 +30,7 @@ This project analyzes feedback from 1,001 students who rated various aspects of 
 - Correlation Analysis (Relationships Between Ratings) 
 The correlation heatmap below shows how various teaching and support factors relate to overall student satisfaction. The highest correlations were found with course relevance, support for students, structuring, and willingness to solve doubts. Interestingly, subject expertise and presentation usage had the weakest relationships with satisfaction, indicating that interpersonal and practical support may matter more to students than technical delivery alone.
 
-![Average Score per feedback](download.png)
+![Average Score per feedback](correlation_heatmap.png)
 ---
 
 ## ✅ Recommendations
